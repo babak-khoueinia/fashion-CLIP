@@ -1,1 +1,3 @@
 # fashion-CLIP
+## TEST
+## Outline
